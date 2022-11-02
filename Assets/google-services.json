@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105354586440",
+    "project_id": "horseracing-75f6d",
+    "storage_bucket": "horseracing-75f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105354586440:android:4f908e2d55c625f8816b7d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105354586440-i6fv5f7vohh5t8ekle9j1rshoupvdtus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92iPLfr-NzPD_2Sg5RFEavU8lBtEJH6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105354586440-i6fv5f7vohh5t8ekle9j1rshoupvdtus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
